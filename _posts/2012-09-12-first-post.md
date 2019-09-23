@@ -1,6 +1,6 @@
 ---
 title: What is VPN
-author: Orion
+author: Orion Qin
 layout: post
 ---
  It is Virtual Private Network.
