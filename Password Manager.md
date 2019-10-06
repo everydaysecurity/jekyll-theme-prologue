@@ -1,7 +1,7 @@
 ---
 title: Password Managers
 layout: blog
-icon: shield-alt
+icon: fa-shield-alt
 order: 5
 ---
 
