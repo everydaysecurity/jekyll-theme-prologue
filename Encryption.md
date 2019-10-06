@@ -1,7 +1,7 @@
 ---
 title: Encryption
 layout: page
-icon: fa-pencil-alt
+icon: lock-alt
 order: 4
 ---
 
