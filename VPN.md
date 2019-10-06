@@ -1,6 +1,6 @@
 ---
 title: VPN
-subtitle: a list of books I read
+subtitle: Virtual Private Network
 layout: "page"
 icon: fa-book
 order: 3
