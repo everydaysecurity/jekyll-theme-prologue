@@ -1,7 +1,7 @@
 ---
 title: Encryption
 layout: page
-icon: fa-lock-alt
+icon: fa-lock
 order: 4
 ---
 
