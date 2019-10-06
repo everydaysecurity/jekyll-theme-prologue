@@ -1,7 +1,7 @@
 ---
 title: Browser Settings
 layout: blog
-icon: fa-safari
+icon: fa-internet-explorer
 order: 6
 ---
 
