@@ -1,7 +1,7 @@
 ---
 title: How can we protect ourselves?
 author: Aaron Wang
-layout: post
+layout: page
 ---
 Do not use public Wi-Fi that don’t have passwords.
 Before we connect to Wi-Fi, make sure we ask employee what actual Wi-Fi is.
